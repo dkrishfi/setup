@@ -1,0 +1,65 @@
+/home/david
+
+.emacs.d
+(make autosave subdir)
+
+emacs-archive
+emacs-mirrors
+emacs-src - put link to in .emacs.d/src
+
+.fonts
+.fonts.conf
+
+.gitconfig
+.git-credentials
+.gnupg
+
+.config/QtProject
+.dropbox
+
+setup
+.ssh
+
+
+apt-clone
+Lastpass
+Chrome
+smartgit
+Calibre + ebooks
+onedrive
+google drive
+wine + newsbin
+
+passwords:
+github
+
+
+??? kde plasma toolbar, desktop ?
+??? Directory structure/drive mounting
+??? samba/nfs/sshd/x2go
+??? accounts
+
+music
+video
+downloads
+documents
+ebooks
+techinfo
+emacs
+
+configure:
+firewalld
+apparmor
+apt
+wireshark
+sshd
+git
+samba
+nfsd
+qt
+wine
+putty
+
+
+
+microsoft teams
